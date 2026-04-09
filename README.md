@@ -11,12 +11,12 @@
 ## PREREQUISITES
 
 ### Before running the system, make sure you have the following:
-	### In Laptop or Pc
-	### -Visual Studio Code
-	### In Android
-	### -Pydroid 3
-	### -Pycode
-	### - Google Chrome
+In Laptop or Pc
+ - Visual Studio Code
+ - In Android
+ -Pydroid 3
+ -Pycode
+ - Google Chrome
 	
 ## INSTALLATION
 
