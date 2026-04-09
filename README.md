@@ -1,8 +1,6 @@
 # Module 1
 
-## TITLE
-
-### Product Pricing and Discount Management System
+## TITLE: Product Pricing and Discount Management System
 
 ## DESCRIPTION
 
