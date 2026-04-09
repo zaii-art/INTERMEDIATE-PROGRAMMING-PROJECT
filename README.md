@@ -32,7 +32,7 @@ https://github.com/zaii-art/INTERMEDIATE-PROGRAMMING-PROJECT.git
 
 - Open Chrome Browser/Google Chrome
 - Go to http://127.0.0.1:5000
-- View Features, Description, About us 
+- View Features, Description, About us and tap Get started or Login
 - Login as Admin or Staff
 - Register an Account
 
