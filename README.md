@@ -1,5 +1,7 @@
 # Module 1
 
+##MEMBER: CK ALMAZAN, PAUL JAY NOEL MAPAIT, GREGORIO VITOR, NATHANIEL GUCOR
+
 ## TITLE: Product Pricing and Discount Management System
 
 ## DESCRIPTION
