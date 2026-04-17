@@ -83,4 +83,4 @@ https://github.com/zaii-art/INTERMEDIATE-PROGRAMMING-PROJECT.git
 - Register an Account
 
 ## Full Description
-### I've Added Admin Dashboard and Staff Dashboard and Design of every Dashboard only the Log Out button is working the other features is still developing. 
+### I've Added Admin Dashboard and Staff Dashboard and Design of every Dashboard only the Log Out button is working, the other features is still developing. 
