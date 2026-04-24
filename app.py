@@ -10,7 +10,7 @@ users = {
 
 @app.route("/")
 def intro():
-    return render_template("intro.html")
+    return render_template("index.html")
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
