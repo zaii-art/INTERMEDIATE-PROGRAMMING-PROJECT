@@ -9,8 +9,8 @@ app.secret_key = "secret123"
 # =========================
 
 users = {
-    "admin": ["123", "admin"],
-    "staff": ["123", "staff"]
+    "ADMIN": ["KING", "admin"],
+    "STAFF": ["SLAVE", "staff"]
 }
 
 discounts = {}
