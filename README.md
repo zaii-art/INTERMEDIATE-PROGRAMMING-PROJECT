@@ -1,8 +1,21 @@
+HELLO SIRR YOU CAN NOW OPEN MY SYSTEM THROUGH RENDER LINKS, I FIND VERCEL DIFFICULT WHEN DEPLOYING MY SYSTEM BUT DON'T WORRY RENDER IS LIGHT AND CAN RUN 24/7 
+
+OPEN THIS LINK SIR: https://zai-discount-system.onrender.com/
+
+HERE'S ADMIN PASSWORD 
+ADMIN
+USERNAME: ADMIN
+PASSWORD: KING
+
+STAFF
+USERNAME: STAFF
+PASSWORD: SLAVE
+
 # Module 1
 
-## MEMBER: CK ALMAZAN, PAUL JAY NOEL MAPAIT, GREGORIO VITOR, NATHANIEL GUCOR
-
 ## TITLE: Product Pricing and Discount Management System
+
+## MEMBER: CK ALMAZAN, PAUL JAY NOEL MAPAIT, GREGORIO VITOR, NATHANIEL GUCOR
 
 ## DESCRIPTION
 
@@ -314,4 +327,4 @@ https://github.com/zaii-art/INTERMEDIATE-PROGRAMMING-PROJECT.git
 
 ## FULL DESCRIPTION
 
-### Now both admin and staff can view reports, admin and user can view how many discount created, which
+### Now both admin and staff can view reports, admin and user can view how many discount created, how many discounts is active and how upcoming discounts, which is discounts is the most primary and lastly discount distribution comparison between individual product vs category. 
