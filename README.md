@@ -33,20 +33,6 @@ In Laptop, Pc or Android
 	
 ## INSTALLATION
 
-
-INTERMEDIATE-PROGRAMMING-PROJECT/
-│
-├── app.py
-├── README.md
-│
-├── templates/
-│   ├── register.html
-│   ├── index.html
-│   ├── login.html
-│
-├── static/
-│   └── discount.jpg
-
 ### Step 1: Download files or Use git clone from my github link
 
 here's my github link
@@ -91,22 +77,6 @@ In Laptop, Pc or Android
 	
 ## INSTALLATION
 
-
-INTERMEDIATE-PROGRAMMING-PROJECT/
-│
-├── app.py
-├── README.md
-│
-├── templates/
-│   ├── admin.html
-│   ├── register.html
-│   ├── index.html
-│   ├── login.html
-│   ├── staff.html
-│
-├── static/
-│   └── discount.jpg
-
 ### Step 1: Download files or Use git clone from my github link
 
 here's my github link
@@ -147,26 +117,6 @@ In Laptop, Pc or Android
  - Google Chrome
 	
 ## INSTALLATION
-
-📁 Project Structure
-
-INTERMEDIATE-PROGRAMMING-PROJECT/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── admin.html
-│   ├── register.html
-│   ├── index.html
-│   ├── login.html
-│   ├── products.html
-│   ├── staff_products_view.html
-│   ├── staff.html
-│
-├── static/
-│   └── discount.jpg
 
 ### Step 1: Download files or Use git clone from my github link
 
@@ -214,28 +164,6 @@ In Laptop, Pc or Android
 	
 ## INSTALLATION
 
-📁 Project Structure
-INTERMEDIATE-PROGRAMMING-PROJECT/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── admin.html
-│   ├── discounts.html
-│   ├── register.html
-│   ├── edit_discount.html
-│   ├── index.html
-│   ├── login.html
-│   ├── products.html
-│   ├── staff.html
-│   ├── staff_discounts_view.html
-│   ├── staff_products_view.html
-│
-├── static/
-│   └── discount.jpg
-
 ### Step 1: Download files or Use git clone from my github link
 
 here's my github link
@@ -282,30 +210,6 @@ In Laptop, Pc or Android
  - Google Chrome
 	
 ## INSTALLATION
-
-📁 Project Structure
-INTERMEDIATE-PROGRAMMING-PROJECT/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── admin.html
-│   ├── discounts.html
-│   ├── register.html
-│   ├── edit_discount.html
-│   ├── index.html
-│   ├── login.html
-│   ├── products.html
-│   ├── reports.html
-│   ├── staff.html
-│   ├── staff_discounts_view.html
-│   ├── staff_products_view.html
-│   └── staff_reports.html
-│
-├── static/
-│   └── discount.jpg
 
 ### Step 1: Download files or Use git clone from my github link
 
