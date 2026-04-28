@@ -4,10 +4,6 @@ from datetime import datetime
 app = Flask(__name__)
 app.secret_key = "secret123"
 
-# =========================
-# DATA STORAGE (MOCK)
-# =========================
-
 users = {
     "ADMIN": ["KING", "admin"],
     "STAFF": ["SLAVE", "staff"]
@@ -28,10 +24,6 @@ products = {
 
 categories = ["Clothing", "Footwear", "Accessories", "Kitchen"]
 
-# =========================
-# HELPER FUNCTIONS
-# =========================
-
 def format_datetime(dt_string):
     """Converts ISO format to a user-friendly string."""
     try:
@@ -49,10 +41,6 @@ def calculate_price(product_price, discount_type, value):
     else:
         final = product_price
     return max(final, 0)
-
-# =========================
-# ROUTES
-# =========================
 
 @app.route("/")
 def intro():
@@ -91,10 +79,6 @@ def admin():
 @app.route("/staff")
 def staff(): 
     return render_template("staff.html")
-
-# =========================
-# DISCOUNTS MANAGEMENT
-# =========================
 
 @app.route("/discounts")
 def discounts_page():
@@ -205,10 +189,6 @@ def delete_discount(discount_id):
             flash("Discount deleted.", "success")
     return redirect(url_for("discounts_page"))
 
-# =========================
-# PRODUCT VIEWS (ADMIN & STAFF)
-# =========================
-
 @app.route("/products")
 def product_page():
     now = datetime.now()
@@ -309,11 +289,9 @@ def get_discount_stats():
             stats["fixed_count"] += 1
             stats["total_fixed_val"] += d["value"]
 
-        # Target Logic
         if d["apply_type"] == "product": stats["product_target"] += 1
         else: stats["category_target"] += 1
 
-    # Calculation for UI display
     avg_perc = round(stats["total_perc_val"] / stats["percentage_count"], 1) if stats["percentage_count"] > 0 else 0
     avg_fixed = round(stats["total_fixed_val"] / stats["fixed_count"], 1) if stats["fixed_count"] > 0 else 0
     
